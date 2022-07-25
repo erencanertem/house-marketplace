@@ -21,7 +21,7 @@ Clone down this repository or you can download source codes. You will need `node
 
 Installation:
 
-`npm install and update with your apikey to .env file`
+`npm install`
 
 To Run Test Suite:
 
